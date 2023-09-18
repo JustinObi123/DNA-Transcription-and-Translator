@@ -1,0 +1,273 @@
+
+***Transcription and Translation***
+
+Opened File
+3 strands loaded.
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+4
+No mRNA to translate; transcribe first
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+6
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+0
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+1
+DNA 1
+***Glow Worm***
+T->A->C->C->T->A->C->T->T->A->C->G->A->A->C->A->C->T->END
+DNA 2
+***Eastern Diamondback Rattlesnake***
+T->A->C->G->C->C->T->A->G->G->C->G->G->T->A->A->T->C->END
+DNA 3
+***Domestic Cat***
+T->A->C->G->G->G->T->A->G->C->T->A->G->C->C->A->T->T->END
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+2
+Which type of strand to reverse?
+1. DNA
+2. mRNA
+2
+No mRNA to reverse; transcribe first
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+2
+Which type of strand to reverse?
+1. DNA
+2. mRNA
+1
+Which strand to work with?
+Choose 1 - 3
+1
+Done reversing DNA 1's strand.
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+1
+DNA 1
+***Glow Worm***
+T->C->A->C->A->A->G->C->A->T->T->C->A->T->C->C->A->T->END
+DNA 2
+***Eastern Diamondback Rattlesnake***
+T->A->C->G->C->C->T->A->G->G->C->G->G->T->A->A->T->C->END
+DNA 3
+***Domestic Cat***
+T->A->C->G->G->G->T->A->G->C->T->A->G->C->C->A->T->T->END
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+4
+No mRNA to translate; transcribe first
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+3
+3 strands of DNA successfully transcribed into new mRNA strands
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+1
+DNA 1
+***Glow Worm***
+T->C->A->C->A->A->G->C->A->T->T->C->A->T->C->C->A->T->END
+DNA 2
+***Eastern Diamondback Rattlesnake***
+T->A->C->G->C->C->T->A->G->G->C->G->G->T->A->A->T->C->END
+DNA 3
+***Domestic Cat***
+T->A->C->G->G->G->T->A->G->C->T->A->G->C->C->A->T->T->END
+mRNA 1
+***Glow Worm***
+A->G->U->G->U->U->C->G->U->A->A->G->U->A->G->G->U->A->END
+mRNA 2
+***Eastern Diamondback Rattlesnake***
+A->U->G->C->G->G->A->U->C->C->G->C->C->A->U->U->A->G->END
+mRNA 3
+***Domestic Cat***
+A->U->G->C->C->C->A->U->C->G->A->U->C->G->G->U->A->A->END
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+4
+Which strand to work with?
+Choose 1 - 3
+1
+***Glow Worm***
+AGU->Serine
+GUU->Valine
+CGU->Arginine
+AAG->Lysine
+UAG->Stop
+GUA->Valine
+Done translating mRNA 1's strand.
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+4
+Which strand to work with?
+Choose 1 - 3
+2
+***Eastern Diamondback Rattlesnake***
+AUG->Methionine (START)
+CGG->Arginine
+AUC->Isoleucine
+CGC->Arginine
+CAU->Histidine
+UAG->Stop
+Done translating mRNA 2's strand.
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+4
+Which strand to work with?
+Choose 1 - 3
+3
+***Domestic Cat***
+AUG->Methionine (START)
+CCC->Proline
+AUC->Isoleucine
+GAU->Aspartic acid
+CGG->Arginine
+UAA->Stop
+Done translating mRNA 3's strand.
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+3
+3 strands of DNA successfully transcribed into new mRNA strands
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+4
+Which strand to work with?
+Choose 1 - 6
+6
+***Domestic Cat***
+AUG->Methionine (START)
+CCC->Proline
+AUC->Isoleucine
+GAU->Aspartic acid
+CGG->Arginine
+UAA->Stop
+Done translating mRNA 6's strand.
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+4
+Which strand to work with?
+Choose 1 - 6
+Which strand to work with?
+Choose 1 - 6
+Which strand to work with?
+Choose 1 - 6
+5
+***Eastern Diamondback Rattlesnake***
+AUG->Methionine (START)
+CGG->Arginine
+AUC->Isoleucine
+CGC->Arginine
+CAU->Histidine
+UAG->Stop
+Done translating mRNA 5's strand.
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+1
+DNA 1
+***Glow Worm***
+T->C->A->C->A->A->G->C->A->T->T->C->A->T->C->C->A->T->END
+DNA 2
+***Eastern Diamondback Rattlesnake***
+T->A->C->G->C->C->T->A->G->G->C->G->G->T->A->A->T->C->END
+DNA 3
+***Domestic Cat***
+T->A->C->G->G->G->T->A->G->C->T->A->G->C->C->A->T->T->END
+mRNA 1
+***Glow Worm***
+A->G->U->G->U->U->C->G->U->A->A->G->U->A->G->G->U->A->END
+mRNA 2
+***Eastern Diamondback Rattlesnake***
+A->U->G->C->G->G->A->U->C->C->G->C->C->A->U->U->A->G->END
+mRNA 3
+***Domestic Cat***
+A->U->G->C->C->C->A->U->C->G->A->U->C->G->G->U->A->A->END
+mRNA 4
+***Glow Worm***
+A->G->U->G->U->U->C->G->U->A->A->G->U->A->G->G->U->A->END
+mRNA 5
+***Eastern Diamondback Rattlesnake***
+A->U->G->C->G->G->A->U->C->C->G->C->C->A->U->U->A->G->END
+mRNA 6
+***Domestic Cat***
+A->U->G->C->C->C->A->U->C->G->A->U->C->G->G->U->A->A->END
+What would you like to do?: 
+1. Display Strands
+2. Reverse Strand
+3. Transcribe DNA to mRNA
+4. Translate mRNA to Amino Acids
+5. Exit
+5
+Exiting program
+Deleting DNA Strands
+Deleting mRNA Strands
